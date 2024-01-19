@@ -31,9 +31,6 @@ src="https://img.shields.io/github/followers/HK853?logo=github&style=for-the-bad
 
 <b>My GitHub Stats</b>
 
-/*<a href="http://www.github.com/HK853"><img src="https://github-readme-stats.vercel.app/api?username=HK853&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=0891b2&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="HK853's GitHub stats" /></a>
-*/
-
 <a href="http://www.github.com/HK853"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HK853&stroke=0891b2&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=0891b2&currStreakLabel=14b8a6&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 <a href="https://github.com/HK853" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HK853&langs_count=10&title_color=14b8a6&text_color=0891b2&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
