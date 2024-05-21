@@ -11,7 +11,8 @@
 * ⚡  Let's do it
 
 <a href="https://www.github.com/HK853" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/HK853?logo=github&style=for-the-badge&color=14b8a6&labelColor=22272e" /></a>           [![](https://visitcount.itsvg.in/api?id=HK853&icon=0&color=0)](https://visitcount.itsvg.in)
+src="https://img.shields.io/github/followers/HK853?logo=github&style=for-the-badge&color=14b8a6&labelColor=22272e" /></a> </br> 
+[![](https://visitcount.itsvg.in/api?id=HK853&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harshninawe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-ninawe) 
