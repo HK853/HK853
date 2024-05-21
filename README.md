@@ -3,10 +3,11 @@
 
 ## About me:
 
+* 😊  My name is **Harsh Ninawe**
 * 🌍  I'm based in Nagpur, Maharashtra.
 * 🖥️  See my portfolio at [MyPortfolio](http://harshninawe.netlify.app/)
 * ✉️  You can contact me at [harshninawe41@gmail.com](mailto:harshninawe41@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning **FULL Stack Development**
 * ⚡  Let's do it
 
 <a href="https://www.github.com/HK853" target="_blank" rel="noreferrer"><img
